@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "default": {
+            "profile": "e2fieldeng",
+            "workspace_dir": "/Shared/dbx/nv_testcicd_1",
+            "artifact_location": "dbfs:/Shared/dbx/projects/nv_testcicd_1"
+        }
+    }
+}
