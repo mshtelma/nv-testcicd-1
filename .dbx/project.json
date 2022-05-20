@@ -1,8 +1,8 @@
 {
     "environments": {
         "default": {
-            "profile": "e2fieldeng",
-            "workspace_dir": "/Users/michael.shtelma@databricks.com/nv_testcicd_1",
+            "profile": "demo",
+            "workspace_dir": "/Shared/dbx/nv_testcicd_1",
             "artifact_location": "dbfs:/Users/msh/dbx/nv_testcicd_1"
         }
     }
